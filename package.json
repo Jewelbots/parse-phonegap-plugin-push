@@ -1,6 +1,6 @@
 {
     "name": "parse-phonegap-plugin-push",
-    "description": "Register and receive push notifications.",
+    "description": "Register and receive push notifications from Parse.",
     "version": "1.2.3",
     "homepage": "http://github.com/Jewelbots/phonegap-plugin-push-mirror#readme",
     "repository": {
