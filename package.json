@@ -2,13 +2,13 @@
     "name": "parse-phonegap-plugin-push",
     "description": "Register and receive push notifications from Parse.",
     "version": "1.2.3",
-    "homepage": "http://github.com/Jewelbots/phonegap-plugin-push-mirror#readme",
+    "homepage": "http://github.com/Jewelbots/parse-phonegap-plugin-push#readme",
     "repository": {
         "type": "git",
-        "url": "git://github.com/Jewelbots/phonegap-plugin-push-mirror.git"
+        "url": "git://github.com/Jewelbots/parse-phonegap-plugin-push.git"
     },
     "bugs": {
-        "url": "https://github.com/Jewelbots/phonegap-plugin-push-mirror/issues"
+        "url": "https://github.com/Jewelbots/parse-phonegap-plugin-push/issues"
     },
     "cordova": {
         "id": "parse-phonegap-plugin-push",
