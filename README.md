@@ -1,7 +1,5 @@
 > This plugin is a modified fork of `phonegap-plugin-push`, available on [https://www.npmjs.com/package/phonegap-plugin-push](npm).
 
-#phonegap-plugin-push [![Build Status](https://travis-ci.org/phonegap/phonegap-plugin-push.svg)](https://travis-ci.org/phonegap/phonegap-plugin-push)
-
 > Register and receive push notifications with Parse Integration
 
 ## Installation
